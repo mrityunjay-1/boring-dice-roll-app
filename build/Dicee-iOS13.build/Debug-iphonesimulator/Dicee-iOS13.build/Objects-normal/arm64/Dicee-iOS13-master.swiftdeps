@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b2d1988f48a1c78714bbda3a38c6d60ef0d6d21e4e4c80777cc06c781e81182d"
+build_start_time: [1690120619, 594948000]
+build_end_time: [1690120620, 51410000]
+inputs:
+  "/Users/mrityunjay/XCodeProjects/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift": [1689994050, 336525778]
+  "/Users/mrityunjay/XCodeProjects/Dicee-iOS13/Dicee-iOS13/SceneDelegate.swift": [1689994050, 383274703]
+  "/Users/mrityunjay/XCodeProjects/Dicee-iOS13/Dicee-iOS13/ViewController.swift": [1690120618, 242872582]
